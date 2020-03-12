@@ -58,6 +58,8 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
 En la primera opcion le agregamos el nombre de la base de datos que creamos en phpmyadmin
 en la segunda opcion agregamos root
 en la tercera no agregamos contraseña
+
+
 ![](BD.png)
 
 
