@@ -9,5 +9,12 @@
 
 # 1. PRIMERO DEBES INSTALAR 
 
-Instalar un servidor Web Local
+Instalar un servidor de aplicaciones Web Local:
 
+En este proyecto vamos a utilizar XAMPP: que ya te incluye (php+apache+mysql)
+
+Instalar Composer:
+es un manejador de dependencias que nos va permitir trabajar con laravel
+en especifico para instalar LARAVEL.
+
+# 2. 
