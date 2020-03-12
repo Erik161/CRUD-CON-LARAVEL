@@ -37,3 +37,7 @@ Usa tu editor de texto favorito en este caso vamos a usar Visual Studio Code.
 
 Nos vamos a la extencion .env para configuar la Base de Datos
 
+![](imgenv.png)
+
+
+
