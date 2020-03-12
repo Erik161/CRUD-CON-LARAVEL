@@ -37,3 +37,38 @@ Usa tu editor de texto favorito en este caso vamos a usar Visual Studio Code.
 
 Nos vamos a la extencion .env para configuar la Base de Datos
 
+![](imgenv.png)
+
+
+ abrimos nuestro navegador y nos dirigimos a PHPMyAdmin http://localhost/phpmyadmin/
+ 
+![](phpmyadmin.png)
+
+Creamos una nueva base de datos 
+y le damos un nombre
+
+esta base de datos es la que vamos a ligar con mi proyecto de LARAVEL 
+
+
+Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo las partes seleccionadas
+
+![](imgDB.png)
+
+
+En la primera opcion le agregamos el nombre de la base de datos que creamos en phpmyadmin
+en la segunda opcion agregamos root
+en la tercera no agregamos contraseña
+![](BD.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
