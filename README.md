@@ -17,4 +17,14 @@ Instalar Composer:
 es un manejador de dependencias que nos va permitir trabajar con laravel
 en especifico para instalar LARAVEL.
 
-# 2. 
+# 2. COMO CREAR UN PROYECTO NUEVO EN LARAVEL
+
+Usa tu editor de texto favorito en este caso vamos a usar Visual Studio Code.
+	desde el editor de texto ingresa a la carpeta:
+	disco local C:/
+	Ingresa a la carpeta XAAMP
+	Ingresa a la carpeta htdocs
+
+	Luego desde Visual Studio Code ingresa a la terminal y escribe el siguiente comando:
+
+`$ composer create-project --prefer-dist laravel/laravel sistema`
