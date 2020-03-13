@@ -62,15 +62,18 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
 ![](imgDB.png)
 
  <ul>
-        <li>En la primera opcion le agregamos el nombre de la base de datos que creamos en phpmyadmin</li>
+        <li>En la primera opcion le agregamos el nombre de la base de datos que creamos en phpmyadmin </li>
         <li>en la segunda opcion agregamos <strong>root</strong></li>
         <li>en la tercera <strong>no</strong> agregamos <strong>contraseña</strong> </li>
  </ul>
 
 ![](BD.png)
 
-# 4. 
-
+<ul>
+        <li>Nos dirigimos a la carpeta <strong>app</strong></li>
+        
+        <li> Nos dirigimos a la carpeta Providers y abrir el documento <strong>AppServiceProviders</strong>  </li>    
+ </ul>
 
 
 
