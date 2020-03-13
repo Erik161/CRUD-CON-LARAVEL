@@ -9,7 +9,7 @@
 
 # 1. PRIMERO DEBES INSTALAR 
 
-Instalar un servidor de aplicaciones Web Local:
+>Instalar un servidor de aplicaciones Web Local:
 
 En este proyecto vamos a utilizar XAMPP: que ya te incluye (php+apache+mysql)
 
@@ -23,12 +23,19 @@ en especifico para instalar LARAVEL.
 
 # 2. COMO CREAR UN PROYECTO NUEVO EN LARAVEL
 
-Usa tu editor de texto favorito en este caso vamos a usar Visual Studio Code.
-	desde el editor de texto ingresa a la carpeta:
-	disco local C:/
-	Ingresa a la carpeta XAAMP
-	Ingresa a la carpeta htdocs
-	Luego desde Visual Studio Code ingresa a la terminal y escribe el siguiente comando:
+ <ul>
+        <li>Usa tu editor de texto favorito en este caso vamos a usar Visual Studio Code.</li>
+        <li>desde el editor de texto ingresa a la carpeta: 
+        <ul>
+        <li>disco local C:/</li>
+        <li>Ingresa a la carpeta XAAMP</li>
+        <li>Ingresa a la carpeta htdocs</li>
+        <li>Luego desde Visual Studio Code ingresa a la terminal y escribe el siguiente comando:</li>
+        </li>
+        </ul>
+         
+   </ul>
+
 
 `$ composer create-project --prefer-dist laravel/laravel sistema`
 
@@ -54,10 +61,17 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
 
 ![](imgDB.png)
 
+ <ul>
+        <li>En la primera opcion le agregamos el nombre de la base de datos que creamos en phpmyadmin</li>
+        <li>en la segunda opcion agregamos root</li>
+        <li>en la tercera no agregamos contraseña</li>
+    </ul>
 
-En la primera opcion le agregamos el nombre de la base de datos que creamos en phpmyadmin
-en la segunda opcion agregamos root
-en la tercera no agregamos contraseña
+
+
+
+
+
 
 
 ![](BD.png)
