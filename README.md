@@ -33,7 +33,7 @@ Usa tu editor de texto favorito en este caso vamos a usar Visual Studio Code.
 `$ composer create-project --prefer-dist laravel/laravel sistema`
 
 
-# 3. Como conectar La Base de Datos y vamos a usar las migraciones de Laravel
+# 3. COMO CONECTAR LA BASE DE DATOS Y VAMOS A USAR LAS MIGRACIONES DE LARAVEL
 
 Nos vamos a la extencion .env para configuar la Base de Datos
 
