@@ -72,7 +72,7 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
 <ul>
         <li>Nos dirigimos a la carpeta <strong>app</strong></li>
         
-        <li> Nos dirigimos a la carpeta Providers y abrir el documento <strong>AppServiceProviders</strong>  </li>    
+  <li>Nos dirigimos a la carpeta Providers y abrir el documento <strong>AppServiceProviders</strong></li>    
  </ul>
 
 
