@@ -81,6 +81,12 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
 
 ![](providers.png)
 
+<ul>
+ <li>Ingresa el siguiente Codigo: </strong></li> 
+</ul>
+
+
+
 
 
 
