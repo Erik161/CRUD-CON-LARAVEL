@@ -70,16 +70,14 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
 ![](BD.png)
 
 <ul>
-        <li>Nos dirigimos a la carpeta <strong>app</strong></li>
-    
-        ![](app.png)
-        
-  <li>Nos dirigimos a la carpeta Providers y abrir el documento <strong>AppServiceProviders</strong></li>    
- </ul>
+        <li>Nos dirigimos a la carpeta <strong>app</strong></li>   
+</ul>
 
+![](app.png)
 
-
-
+<ul>
+ <li>Nos dirigimos a la carpeta Providers y abrir el documento <strong>AppServiceProviders</strong></li> 
+</ul>
 
 
 
