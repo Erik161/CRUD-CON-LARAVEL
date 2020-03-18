@@ -79,6 +79,8 @@ Nos dirigimos a la siguiente ubicación de la extencion .env y modificamos solo 
  <li>Nos dirigimos a la carpeta Providers y abrir el documento <strong>AppServiceProviders</strong></li> 
 </ul>
 
+![](providers.png)
+
 
 
 
